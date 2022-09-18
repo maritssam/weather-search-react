@@ -16,16 +16,17 @@ form {
   font-family: Cormorant;
   font-weight: 600;
   color: #3a4c53;
+  line-height: 1;
 }
 .Weather .col {
   margin-top: 30px;
 }
 .Weather .col-2 {
-  margin-top: 30px;
+  margin-top: 26px;
 }
 
 .Weather .temp {
-  font-size: 46px;
+  font-size: 52px;
   font-family: Cormorant;
   color: #3a4c53;
 }
@@ -33,7 +34,7 @@ form {
   font-size: 20px;
   font-family: Cormorant;
   position: relative;
-  bottom: 18px;
+  bottom: 21px;
   color: #3a4c53;
 }
 .Weather ul {
@@ -54,6 +55,7 @@ form {
   font-size: 24px;
   font-weight: bold;
   color: #3a4c53;
+  line-height: 1;
 }
 .Weather .col-5 {
   padding-right: 40px;
