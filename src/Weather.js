@@ -24,21 +24,21 @@ export default function Weather() {
 
       <div className="container">
         <div className="row row-cols-4">
+          <div className="col">
+            <ul>
+              <li>Humidity: 57%</li>
+              <li>Wind: 11 km/h</li>
+            </ul>
+          </div>
           <div className="col-2 text-center">
             <img
               src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
               alt="weather icon"
             />
           </div>
-          <div className="col-2 text-center">
+          <div className="col-2 text-end">
             <span className="temp"> 13</span>
             <span className="unit">°C</span>
-          </div>
-          <div className="col text-center">
-            <ul>
-              <li>Humidity: 57%</li>
-              <li>Wind: 11 km/h</li>
-            </ul>
           </div>
           <div className="col-5 text-end">
             <h1>Victoria</h1>

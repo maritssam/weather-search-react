@@ -9,6 +9,7 @@
 }
 form {
   margin: 18px;
+  padding-left: 18px;
 }
 
 .Weather h1 {
@@ -41,6 +42,7 @@ form {
   font-size: 17px;
   position: relative;
   top: 10px;
+  right: 15px;
   color: #3a4c53;
 }
 .Weather h5 {
@@ -54,7 +56,11 @@ form {
   color: #3a4c53;
 }
 .Weather .col-5 {
-  padding-right: 20px;
+  padding-right: 40px;
   position: relative;
   bottom: 14px;
+}
+.Weather img {
+  height: 68px;
+  width: 68px;
 }
