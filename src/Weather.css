@@ -4,7 +4,7 @@
   min-height: 230px;
   display: block;
   margin: 0 auto;
-  background-color: #f2fbff;
+  background-color: #e2f3fa;
   margin-top: 30px;
 }
 .Weather form {
@@ -21,7 +21,7 @@
   margin-top: 30px;
 }
 .Weather .col-2 {
-  margin-top: 26px;
+  margin-top: 24px;
 }
 
 .Weather .temp {
@@ -61,6 +61,6 @@
   position: relative;
 }
 .Weather img {
-  height: 68px;
-  width: 68px;
+  height: 80px;
+  width: 80px;
 }
