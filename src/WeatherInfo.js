@@ -22,11 +22,9 @@ export default function WeatherInfo(props) {
           </div>
           <div className="col-2">
             {" "}
-            
-              <WeatherTemperature celsius={props.data.temperature} />
-            
+            <WeatherTemperature celsius={props.data.temperature} />
           </div>
-          <div className="col-5 text-end">
+          <div className="col-5 text-center">
             <h5>
               <FormattedDate date={props.data.date} size={64} />
             </h5>

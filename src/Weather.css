@@ -57,10 +57,7 @@
   color: #3a4c53;
   line-height: 1;
 }
-.Weather .col-5 {
-  padding-right: 40px;
-  position: relative;
-}
+
 .Weather canvas {
   height: 64px;
   width: 64px;
