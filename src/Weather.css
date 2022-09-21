@@ -4,7 +4,7 @@
   min-height: 230px;
   display: block;
   margin: 0 auto;
-  background-color: #e2f3fa;
+  background-color: #ebf3f7;
   margin-top: 40px;
 }
 .Weather form {
@@ -24,16 +24,16 @@
   margin-top: 24px;
 }
 
-.Weather .temp {
-  font-size: 52px;
+.WeatherTemperature .temperature {
+  font-size: 48px;
   font-family: Cormorant;
   color: #3a4c53;
 }
-.Weather .unit {
-  font-size: 20px;
-  font-family: Cormorant;
+.WeatherTemperature .unit {
+  font-size: 16px;
+  font-family: "Times New Roman", Times, serif;
   position: relative;
-  bottom: 21px;
+  bottom: 23px;
   color: #3a4c53;
 }
 .Weather ul {
@@ -48,6 +48,7 @@
 .Weather h5 {
   font-family: Cormorant;
   color: #3a4c53;
+  padding-bottom: 5px;
 }
 .Weather h6 {
   font-family: Cormorant;
