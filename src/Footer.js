@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer>
       {" "}
-      Coded by Jen Xamin, open source on{" "}
+      Coded by marti medina, open source on{" "}
       <a
         href="https://github.com/JenLynX/weather-search-react"
         target="_blank"
